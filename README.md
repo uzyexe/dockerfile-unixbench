@@ -21,7 +21,7 @@ The option flags are:
                 slow tests).
   -c <n>        Run <n> copies of each test in parallel.
 
-For more [longhelp](https://github.com/kdlucas/byte-unixbench/blob/master/UnixBench/USAGE).
+For more [USAGE](https://github.com/kdlucas/byte-unixbench/blob/master/UnixBench/USAGE).
 
 # License
 
