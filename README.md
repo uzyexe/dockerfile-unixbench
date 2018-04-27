@@ -6,7 +6,13 @@ alpine based UnixBench.
 
 ### Quick Start
 
+### basic
+
 `docker run --rm uzyexe/unixbentch -i 3`
+
+### gotty
+
+`docker run --rm -p 8080:8080 uzyexe/unixbentch:gotty`
 
 ### Detailed Usage
 
